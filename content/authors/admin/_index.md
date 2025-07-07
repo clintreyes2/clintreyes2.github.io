@@ -3,7 +3,7 @@
 title: Clint C. M. Reyes
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Clint C. M.
@@ -67,24 +67,24 @@ education:
     institution: The University of Tokyo
     date_start: 2020-09-01
     date_end: 2022-09-01
-#    summary: |
-#      GPA: 3.8/4.0
+    summary: |
+      GPA: 3.8/4.0
 
-#      Courses included:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Civil Engineering
     institution: University of the Philippines - Diliman
     date_start: 2012-06-01
     date_end: 2017-06-01
-#    summary: |
-#      GPA: 3.4/4.0
+    summary: |
+      GPA: 3.4/4.0
       
-#      Courses included:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -103,11 +103,11 @@ work:
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
